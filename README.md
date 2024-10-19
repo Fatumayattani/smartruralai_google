@@ -10,7 +10,7 @@ SmartRural AI is a Chrome extension designed to enhance the educational experien
 - **User-Friendly Interface**: Simple and intuitive UI for easy navigation and interaction.
 - **Multi-Platform Compatibility**: Designed for use within the Chrome browser, making it easily accessible to users.
 ---
-## Technologies Used
+## 💻 Technologies Used
 - HTML
 - CSS
 - JavaScript
