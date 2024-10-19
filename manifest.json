@@ -19,7 +19,6 @@
     ],
     "host_permissions": [
       "*://*/*"
-    ],
-    "options_page": "options.html"
+    ]
   }
   
