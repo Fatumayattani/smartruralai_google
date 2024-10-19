@@ -17,3 +17,9 @@ SmartRural AI is a Chrome extension designed to enhance the educational experien
 - Gemini Nano AI Model
 - Summarization API
 - Translation API
+---
+## 🔗 API Integration
+This extension utilizes the following APIs:
+
+Summarization API: To generate concise summaries.
+Translation API: To translate text into local languages.
